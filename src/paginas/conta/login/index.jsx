@@ -70,9 +70,11 @@ import  { useHistory } from 'react-router-dom';
                 
             </Container>
             <Rodape />
+            
         </div>
     )
 
 }
+
 
 export default Login;
